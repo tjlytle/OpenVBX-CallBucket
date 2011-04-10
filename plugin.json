@@ -1,0 +1,13 @@
+{
+	"name" : "Call Bucket",
+	"author" : "Tim Lytle <tim@timlytle.net>",
+	"description" : "Capture and Analyze Call Data",
+	"url" : "http://github.com/tjlytle/OpenVBX-CallBucket",
+    "links" : [
+        {
+            "url" : "bucket-export",
+            "script" : "export.php",
+            "label" : "Export",
+            "menu" : "Call Bucket"
+        }]
+}
